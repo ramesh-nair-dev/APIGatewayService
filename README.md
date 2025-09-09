@@ -68,4 +68,3 @@ spring.cloud.gateway.routes[0].predicates[0]=Path=/products/**
 📫 Reach me at: ramesh200212@gmail.com
 🌐 GitHub: https://github.com/ramesh-nair-dev
 
-The API Gateway Service demonstrates how to implement a clean, config-driven entry point for a microservices ecosystem using Spring Cloud Gateway.
